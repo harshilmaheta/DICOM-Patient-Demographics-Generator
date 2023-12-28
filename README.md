@@ -13,6 +13,7 @@ Customizable Parameters: Allows customization of demo demographics to simulate d
 Efficiency and Accuracy: Ensures efficient and accurate creation of DICOM demo patient demographics.
 Supports Medical Imaging Development: Aids in medical imaging software development, testing, and research by providing accurate and varied demo patient data.
 User-Friendly Interface: Designed with a user-friendly interface for ease of use.
+
 Disclaimer: The generated patient demographics are intended for demonstration and testing purposes only and should not be used for actual patient data. This tool does not provide actual patient information and should not be utilized for medical diagnosis, treatment, or any other clinical use.
 
 This tool/code serves as an invaluable asset for medical imaging professionals, software developers, and researchers, empowering them to generate accurate and diverse demo patient demographics essential for DICOM data manipulation, testing, and development.
